@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "username": "duyhk",
+      "password": "123456",
+      "id": "IMc4oyudL_dvfFQaUGirF",
+      "roles": [
+        "user_role"
+      ],
+      "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImR1eWhrIiwicm9sZXMiOlsidXNlcl9yb2xlIl0sImlhdCI6MTY3ODI4NzgzOSwiZXhwIjoxNjc4Mjg3ODY5fQ.odm4dZWAWx1cvQSWh_gcCZBRHYOtVN7U7nSAxJID78Y"
+    }
+  ]
+}
