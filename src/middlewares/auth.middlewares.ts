@@ -1,12 +1,11 @@
 import * as jwt from "jsonwebtoken";
 import { Request, Response, NextFunction } from "express";
-import config from "../config/config";
 
 export const isAuth = (roles: Array<string>) => {
   return async (req: Request, res: Response, next: NextFunction) => {
     const accessTokenFromHeader = <string>req.headers.x_authorization;
     if (!accessTokenFromHeader) {
-      return res.status(401).send("Not found access token!");
+      return res.status(401).send("Không tìm thấy access token!");
     }
     let verified;
 
@@ -18,11 +17,13 @@ export const isAuth = (roles: Array<string>) => {
         )
       );
     } catch (error) {
-      return res.status(401).send("Invalid access token!");
+      return res.status(401).send("Access token không hợp lệ!");
     }
 
     if (!verified.roles.some((r: string) => roles.indexOf(r) >= 0)) {
-      return res.status(403).send("You cannot access this page!");
+      return res
+        .status(403)
+        .send("Bạn không có quyền truy cập vào tính năng này!");
     }
 
     next();

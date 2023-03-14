@@ -5,9 +5,600 @@
       "password": "123456",
       "id": "IMc4oyudL_dvfFQaUGirF",
       "roles": [
-        "user_role"
-      ],
-      "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImR1eWhrIiwicm9sZXMiOlsidXNlcl9yb2xlIl0sImlhdCI6MTY3ODI4NzgzOSwiZXhwIjoxNjc4Mjg3ODY5fQ.odm4dZWAWx1cvQSWh_gcCZBRHYOtVN7U7nSAxJID78Y"
+        "user_role",
+        "admin_role"
+      ]
+    }
+  ],
+  "products": [
+    {
+      "name": "Samsung Galaxy S23 Ultra 5G 256GB",
+      "brandId": "XMJZbDX-dDbCgAbmaW2yy",
+      "price": 26990000,
+      "qtySold": 28127,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/2/638109356938776451_samsung-galaxy-s23-ultra-xanh-dd-bh.jpg",
+      "createAt": "61635747600000",
+      "id": "wbLsULs5ILie8BohdV1L-"
+    },
+    {
+      "name": "Samsung Galaxy S23 Plus 5G 256GB",
+      "brandId": "XMJZbDX-dDbCgAbmaW2yy",
+      "price": 24990000,
+      "qtySold": 30311,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/2/638109400948327364_samsung-galaxy-s23-plus-dd-tim-bh.jpg",
+      "createAt": "61635920400000",
+      "id": "fXimHKU7fDLsXRWgnn6oV"
+    },
+    {
+      "name": "Samsung Galaxy S23 5G 256GB",
+      "brandId": "XMJZbDX-dDbCgAbmaW2yy",
+      "price": 23990000,
+      "qtySold": 30740,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/2/638109400939907860_samsung-galaxy-s23-dd-vang-bh.jpg",
+      "createAt": "61634883600000",
+      "id": "FJxaY9FgDmkDDIvaSdmEx"
+    },
+    {
+      "name": "Samsung Galaxy Z Fold4 5G 256GB",
+      "brandId": "XMJZbDX-dDbCgAbmaW2yy",
+      "price": 37990000,
+      "qtySold": 28376,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/12/637985736585000612_samsung-galaxy-z-fold4-kem-dd-tra-gop.jpg",
+      "createAt": "61633674000000",
+      "id": "-d0F4fz6Udvc86kQcapWU"
+    },
+    {
+      "name": "Samsung Galaxy Z Flip4 5G 128GB",
+      "brandId": "XMJZbDX-dDbCgAbmaW2yy",
+      "price": 20990000,
+      "qtySold": 20163,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/28/638131738057784556_samsung-galaxy-z-flip4-vang-dd-tragop.jpg",
+      "createAt": "61639203600000",
+      "id": "_CQbEStQfcL1GoyKqtA3j"
+    },
+    {
+      "name": "Samsung Galaxy Z Flip4 5G Flex Mode Collection",
+      "brandId": "XMJZbDX-dDbCgAbmaW2yy",
+      "price": 22990000,
+      "qtySold": 20720,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/28/638131743557945059_samsung-galaxy-z-flip4-flex-mode-dd-docquyen.jpg",
+      "createAt": "61637475600000",
+      "id": "-K2N6PO4zPnSIxE4LqzsO"
+    },
+    {
+      "name": "Samsung Galaxy Z Flip4 5G Bespoke Edition",
+      "brandId": "XMJZbDX-dDbCgAbmaW2yy",
+      "price": 21990000,
+      "qtySold": 12439,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/22/638073289274784845_samsung-galaxy-z-flip4-dd-docquyen.jpg",
+      "createAt": "61635315600000",
+      "id": "FwwdNARAsaBA7FVjN2Vs4"
+    },
+    {
+      "name": "Samsung Galaxy S22 Ultra 5G 128GB",
+      "brandId": "XMJZbDX-dDbCgAbmaW2yy",
+      "price": 25990000,
+      "qtySold": 32548,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/10/5/638005758465649293_samsung-galaxy-s22-ultra-dd-tragop.jpg",
+      "createAt": "61635488400000",
+      "id": "jDafyRM1WMpbeuBymKkPE"
+    },
+    {
+      "name": "Samsung Galaxy S22 Plus 5G 128GB",
+      "brandId": "XMJZbDX-dDbCgAbmaW2yy",
+      "price": 20990000,
+      "qtySold": 24678,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/10/5/638005752117315263_samsung-galaxy-s22-plus-dd-tragop.jpg",
+      "createAt": "61638858000000",
+      "id": "817p4sztLSZIBzobbLmv8"
+    },
+    {
+      "name": "Samsung Galaxy S22 Bora Purple 5G",
+      "brandId": "XMJZbDX-dDbCgAbmaW2yy",
+      "price": 14990000,
+      "qtySold": 17199,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/22/637994555957667673_samsung-galaxy-s22-bora-purple-dd-docquyen.jpg",
+      "createAt": "61638771600000",
+      "id": "iBXNPQQJ_JHlcn2oQuZqI"
+    },
+    {
+      "name": "Samsung Galaxy S21 FE 5G 8GB - 128GB",
+      "brandId": "XMJZbDX-dDbCgAbmaW2yy",
+      "price": 12490000,
+      "qtySold": 22856,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/10/5/638005748533316822_samsung-galaxy-s21-fe-dd-tragop.jpg",
+      "createAt": "61639030800000",
+      "id": "RfiV-I78ZGeQB3Mg1XY2Z"
+    },
+    {
+      "name": "Samsung Galaxy A73 5G",
+      "brandId": "XMJZbDX-dDbCgAbmaW2yy",
+      "price": 10990000,
+      "qtySold": 20765,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/4/7/637849355447769871_samsung-galaxy-a73-xanh-dd.jpg",
+      "createAt": "61637302800000",
+      "id": "koS2ilJQKeT7mIkFA0_uf"
+    },
+    {
+      "name": "Samsung Galaxy A33 5G",
+      "brandId": "XMJZbDX-dDbCgAbmaW2yy",
+      "price": 6790000,
+      "qtySold": 24991,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/4/10/637851846462573963_samsung-galaxy-a33-den-dd.jpg",
+      "createAt": "61634365200000",
+      "id": "ueZl_IfjKelaMOxbwWvYm"
+    },
+    {
+      "name": "Samsung Galaxy A23",
+      "brandId": "XMJZbDX-dDbCgAbmaW2yy",
+      "price": 4990000,
+      "qtySold": 26750,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/6/30/637922032061979882_samsung-galaxy-a23-dd.jpg",
+      "createAt": "61633414800000",
+      "id": "pfnQqrTaCBk2hJDEjT7ub"
+    },
+    {
+      "name": "Samsung Galaxy A14 5G",
+      "brandId": "XMJZbDX-dDbCgAbmaW2yy",
+      "price": 5190000,
+      "qtySold": 24135,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/3/638134402963513564_samsung-galaxy-a14-5g-dd-moi.jpg",
+      "createAt": "61634538000000",
+      "id": "rARy6CogW5l3KNrNt9hkq"
+    },
+    {
+      "name": "Samsung Galaxy A13",
+      "brandId": "XMJZbDX-dDbCgAbmaW2yy",
+      "price": 4190000,
+      "qtySold": 20279,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/3/22/637835361843548009_samsung-galaxy-a13-den-dd.jpg",
+      "createAt": "61635747600000",
+      "id": "aX9Kq38BToX3Oa10hxO3d"
+    },
+    {
+      "name": "Samsung Galaxy A04s",
+      "brandId": "XMJZbDX-dDbCgAbmaW2yy",
+      "price": 3590000,
+      "qtySold": 26938,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/14/637987521301922976_samsung-galaxy-a04s-xanh-dd.jpg",
+      "createAt": "61633846800000",
+      "id": "Q0nBkis0wMUMrdyH8mK-D"
+    },
+    {
+      "name": "Samsung Galaxy A04",
+      "brandId": "XMJZbDX-dDbCgAbmaW2yy",
+      "price": 2590000,
+      "qtySold": 25349,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/10/11/638011085203860493_samsung-galaxy-a04-den-dd.jpg",
+      "createAt": "61637562000000",
+      "id": "K2rsCoZX8ymbkThqqauNi"
+    },
+    {
+      "name": "Samsung Galaxy A03s",
+      "brandId": "XMJZbDX-dDbCgAbmaW2yy",
+      "price": 3690000,
+      "qtySold": 12125,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/8/22/637652432564767587_samsung-a03s-xanh-dd.jpg",
+      "createAt": "61639203600000",
+      "id": "rXarM9BUvThNAnFvs3aqW"
+    },
+    {
+      "name": "Samsung Galaxy A03",
+      "brandId": "XMJZbDX-dDbCgAbmaW2yy",
+      "price": 2990000,
+      "qtySold": 14341,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/6/30/637922030126634234_samsung-galaxy-a03-dd.jpg",
+      "createAt": "61638512400000",
+      "id": "hwlD2x0eHK5QV8bV6fE2R"
+    },
+    {
+      "name": "Samsung Galaxy S22 5G 128GB",
+      "brandId": "XMJZbDX-dDbCgAbmaW2yy",
+      "price": 16990000,
+      "qtySold": 22196,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/10/5/638005761889410456_samsung-galaxy-s22-dd-tragop.jpg",
+      "createAt": "61637994000000",
+      "id": "3FzbDvaqEBZ7H2lp-cF64"
+    },
+    {
+      "name": "Samsung Galaxy A53 5G 128GB",
+      "brandId": "XMJZbDX-dDbCgAbmaW2yy",
+      "price": 8490000,
+      "qtySold": 22658,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/3/10/637825310288115049_samsung-galaxy-a53-den-4.jpg",
+      "createAt": "61637562000000",
+      "id": "bdsjKh9j3tvibjlJTyDn0"
+    },
+    {
+      "name": "Samsung Galaxy A14 4G 4GB",
+      "brandId": "XMJZbDX-dDbCgAbmaW2yy",
+      "price": 4490000,
+      "qtySold": 27184,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/3/638134385008402132_samsung-galaxy-a14-4g-dd-moi.jpg",
+      "createAt": "61634451600000",
+      "id": "idHnFS-R4KIOnE4zziVD9"
+    },
+    {
+      "name": "iPhone 14 Pro Max 128GB",
+      "brandId": "DLJ_1hawoU-R90USbzbl6",
+      "price": 27990000,
+      "qtySold": 27358,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/1/31/638107858631679725_iphone-14-pro-max-dd-1.jpg",
+      "createAt": "61637216400000",
+      "id": "LqHEIX1oprRrBLyxEOBOq"
+    },
+    {
+      "name": "iPhone 14 Pro 128GB",
+      "brandId": "DLJ_1hawoU-R90USbzbl6",
+      "price": 25490000,
+      "qtySold": 22616,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/1/31/638107858632184994_iphone-14-pro-dd-1.jpg",
+      "createAt": "61636870800000",
+      "id": "is8igBiSXRW5K1caBVaLw"
+    },
+    {
+      "name": "iPhone 14 Plus 128GB",
+      "brandId": "DLJ_1hawoU-R90USbzbl6",
+      "price": 22990000,
+      "qtySold": 7902,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/8/638138668784200644_iphone-14-plus-dd.jpg",
+      "createAt": "61639117200000",
+      "id": "KIq_QLXLjRW9XB9bcHLH2"
+    },
+    {
+      "name": "iPhone 14 128GB",
+      "brandId": "DLJ_1hawoU-R90USbzbl6",
+      "price": 19990000,
+      "qtySold": 34695,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/8/638138668784040702_iphone-14-dd.jpg",
+      "createAt": "61634106000000",
+      "id": "1NrorEocrhRUeExlyBrWE"
+    },
+    {
+      "name": "iPhone 13 Pro Max 256GB",
+      "brandId": "DLJ_1hawoU-R90USbzbl6",
+      "price": 28490000,
+      "qtySold": 16262,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/1/31/638107846051034219_iphone-13-pro-max-dd.jpg",
+      "createAt": "61637043600000",
+      "id": "kCapWgZxMqXM2TUFwyrJa"
+    },
+    {
+      "name": "iPhone 13 128GB",
+      "brandId": "DLJ_1hawoU-R90USbzbl6",
+      "price": 17990000,
+      "qtySold": 15665,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/1/31/638107846050335072_iphone-13-dd-1.jpg",
+      "createAt": "61633501200000",
+      "id": "SBHT1kzodYKLg-6ebT1UI"
+    },
+    {
+      "name": "iPhone 12 64GB",
+      "brandId": "DLJ_1hawoU-R90USbzbl6",
+      "price": 15599000,
+      "qtySold": 5566,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/1/31/638107840321195326_iphone-12-dd.jpg",
+      "createAt": "61636352400000",
+      "id": "EI1LlvmyN-WfXilV7g520"
+    },
+    {
+      "name": "iPhone 11 64GB",
+      "brandId": "DLJ_1hawoU-R90USbzbl6",
+      "price": 11499000,
+      "qtySold": 25039,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/1/31/638107840321324440_iphone-11-dd.jpg",
+      "createAt": "61636266000000",
+      "id": "geZEN-NHsHEeUf0xO6Umh"
+    },
+    {
+      "name": "iPhone SE 2022 64GB",
+      "brandId": "DLJ_1hawoU-R90USbzbl6",
+      "price": 11490000,
+      "qtySold": 34804,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/3/9/637823924290106355_iphone-se-2022-dd.jpg",
+      "createAt": "61637475600000",
+      "id": "YrlQFQD59qJ8YGDlFdGF3"
+    },
+    {
+      "name": "OPPO Reno8 T 5G 128GB",
+      "brandId": "KVrpup8HZHGa4sfkfkDIl",
+      "price": 9990000,
+      "qtySold": 32151,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/2/638109492836018083_oppo-reno8-t-5g-dd-moi.jpg",
+      "createAt": "61633846800000",
+      "id": "2KvgdEfxrFghA5K3G5YR5"
+    },
+    {
+      "name": "OPPO Find X5 Pro 12GB - 256GB",
+      "brandId": "KVrpup8HZHGa4sfkfkDIl",
+      "price": 24990000,
+      "qtySold": 25695,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/20/638071494968488952_oppo-find-x5-pro-dd.jpg",
+      "createAt": "61634365200000",
+      "id": "kqinFXXwYzVawbSptIOm0"
+    },
+    {
+      "name": "OPPO A77s 8GB-128GB",
+      "brandId": "KVrpup8HZHGa4sfkfkDIl",
+      "price": 6290000,
+      "qtySold": 7064,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/20/638071499364966239_oppo-a77s-dd.jpg",
+      "createAt": "61637994000000",
+      "id": "LkQY3Oj6mJNgoUYBr5rsV"
+    },
+    {
+      "name": "OPPO A57 4GB-128GB",
+      "brandId": "KVrpup8HZHGa4sfkfkDIl",
+      "price": 4290000,
+      "qtySold": 23375,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/20/638071500758726769_oppo-a57-dd.jpg",
+      "createAt": "61638512400000",
+      "id": "cHNyvwCj7TB6q1XEGTdcz"
+    },
+    {
+      "name": "OPPO A17 4GB-64GB",
+      "brandId": "KVrpup8HZHGa4sfkfkDIl",
+      "price": 3790000,
+      "qtySold": 34195,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/20/638071513576393682_oppo-a17-dd.jpg",
+      "createAt": "61637994000000",
+      "id": "ix6UbBUSCFxEbTG7d5Pms"
+    },
+    {
+      "name": "OPPO A17k 3GB-64GB",
+      "brandId": "KVrpup8HZHGa4sfkfkDIl",
+      "price": 3190000,
+      "qtySold": 17529,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/20/638071502453762468_oppo-a17k-dd.jpg",
+      "createAt": "61636438800000",
+      "id": "ydA7CEadOEA62mxDNNWbe"
+    },
+    {
+      "name": "Oppo Reno6 5G",
+      "brandId": "KVrpup8HZHGa4sfkfkDIl",
+      "price": 7290000,
+      "qtySold": 23726,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/20/638071509969314703_oppo-reno6-5g-dd.jpg",
+      "createAt": "61635747600000",
+      "id": "xYZylHGUHHbhfkNXYZCBz"
+    },
+    {
+      "name": "OPPO Reno8 4G 8GB - 256GB",
+      "brandId": "KVrpup8HZHGa4sfkfkDIl",
+      "price": 7490000,
+      "qtySold": 8353,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/20/638071497063030667_oppo-reno8-4g-dd.jpg",
+      "createAt": "61637130000000",
+      "id": "v40fkNWCfyYX8jbYiVX6b"
+    },
+    {
+      "name": "OPPO Reno8 Z 5G 8GB - 256GB",
+      "brandId": "KVrpup8HZHGa4sfkfkDIl",
+      "price": 7990000,
+      "qtySold": 9517,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/20/638071496079965111_oppo-reno8-z-dd.jpg",
+      "createAt": "61639030800000",
+      "id": "1xTD2KzK6s3_NWMMQ5yt6"
+    },
+    {
+      "name": "OPPO A95 8GB-128GB",
+      "brandId": "KVrpup8HZHGa4sfkfkDIl",
+      "price": 5490000,
+      "qtySold": 14084,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/20/638071506082950649_oppo-a95-dd.jpg",
+      "createAt": "61638080400000",
+      "id": "HU8YCIaoPiZ7xF-H_g45R"
+    },
+    {
+      "name": "OPPO Reno7 Z 5G 8GB - 128GB",
+      "brandId": "KVrpup8HZHGa4sfkfkDIl",
+      "price": 7490000,
+      "qtySold": 15867,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/2/28/637816817507294378_oppo-reno7-z-dd.jpg",
+      "createAt": "61636266000000",
+      "id": "V1Uz9fh9hyL7ZHiqY47-9"
+    },
+    {
+      "name": "OPPO Reno6 Z 5G",
+      "brandId": "KVrpup8HZHGa4sfkfkDIl",
+      "price": 6490000,
+      "qtySold": 11113,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/7/8/637613342139496099_oppo-reno6z-dd.jpg",
+      "createAt": "61633933200000",
+      "id": "qjtrAg186umcRdZcTYazo"
+    },
+    {
+      "name": "OPPO A96 8GB-128GB",
+      "brandId": "KVrpup8HZHGa4sfkfkDIl",
+      "price": 5990000,
+      "qtySold": 30556,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/8/4/637952208506180948_oppo-a96-8gb-128gb-dd.jpg",
+      "createAt": "61638685200000",
+      "id": "SPoddFil2AifiKS303dbM"
+    },
+    {
+      "name": "OPPO A76 6GB-128GB",
+      "brandId": "KVrpup8HZHGa4sfkfkDIl",
+      "price": 5390000,
+      "qtySold": 14236,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/2/18/637807894098007916_oppo-a76-dd.jpg",
+      "createAt": "61637130000000",
+      "id": "SPJsNL8Ft_asAc0AJlIyI"
+    },
+    {
+      "name": "OPPO A16k 3GB-32GB",
+      "brandId": "KVrpup8HZHGa4sfkfkDIl",
+      "price": 2590000,
+      "qtySold": 13165,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/20/638071511140797328_oppo-a16k-dd.jpg",
+      "createAt": "61634192400000",
+      "id": "figYT4vCPeylYZpekI4Y5"
+    },
+    {
+      "name": "OPPO Reno7 5G 8GB - 256GB",
+      "brandId": "KVrpup8HZHGa4sfkfkDIl",
+      "price": 7990000,
+      "qtySold": 9314,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/2/28/637816821904059670_oppo-reno7-dd.jpg",
+      "createAt": "61633501200000",
+      "id": "dYJjY84qS85J6aYDv1cUZ"
+    },
+    {
+      "name": "OPPO A16 3GB-32GB",
+      "brandId": "KVrpup8HZHGa4sfkfkDIl",
+      "price": 2790000,
+      "qtySold": 23267,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/2/26/637814721605034706_oppo-a16-dd.jpg",
+      "createAt": "61638512400000",
+      "id": "PSSubMHv1xMzi3MorTAgo"
+    },
+    {
+      "name": "Xiaomi Redmi A1 2GB-32GB",
+      "brandId": "BiLK-hHUf4ZTUlZVu5Fsq",
+      "price": 1990000,
+      "qtySold": 29144,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/21/638072152885717964_xiaomi-redmi-a1-den-dd-bh.jpg",
+      "createAt": "61635056400000",
+      "id": "guCu2ykHcjDqmIT1WsFu5"
+    },
+    {
+      "name": "Xiaomi Redmi 10A 3GB-64GB",
+      "brandId": "BiLK-hHUf4ZTUlZVu5Fsq",
+      "price": 2790000,
+      "qtySold": 19749,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/24/638074782811199183_xiaomi-redmi-10a-dd-bh-docquyen.jpg",
+      "createAt": "61635315600000",
+      "id": "caHVovr1QcMsgKkh9v_Hl"
+    },
+    {
+      "name": "Xiaomi Redmi 10 4GB-128GB 2021",
+      "brandId": "BiLK-hHUf4ZTUlZVu5Fsq",
+      "price": 3590000,
+      "qtySold": 20823,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/21/638072154743011638_xiaomi-redmi-10-dd-bh.jpg",
+      "createAt": "61633587600000",
+      "id": "SBDRR2g27lWyMIvD5jE8h"
+    },
+    {
+      "name": "Xiaomi Redmi 10 2022 4GB-128GB",
+      "brandId": "BiLK-hHUf4ZTUlZVu5Fsq",
+      "price": 3790000,
+      "qtySold": 17853,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/21/638072158118304333_xiaomi-redmi-10-2022-dd-bh.jpg",
+      "createAt": "61635747600000",
+      "id": "2Ejd1qJcO3XGEukbjwh2u"
+    },
+    {
+      "name": "Xiaomi 13 Lite 8GB-128GB",
+      "brandId": "BiLK-hHUf4ZTUlZVu5Fsq",
+      "price": 10690000,
+      "qtySold": 24784,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/21/638125835715080410_xiaomi-13-lite-dd-docquyen.jpg",
+      "createAt": "61636266000000",
+      "id": "tTGCkIau4sTDpMqMWX3b7"
+    },
+    {
+      "name": "Xiaomi 13 8GB-256GB",
+      "brandId": "BiLK-hHUf4ZTUlZVu5Fsq",
+      "price": 22990000,
+      "qtySold": 6334,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/20/638125137139946146_xiaomi-13-dd.jpg",
+      "createAt": "61639376400000",
+      "id": "HUSfcKzcmAJsXVHPQmXnk"
+    },
+    {
+      "name": "Xiaomi 13 Pro 12GB-256GB",
+      "brandId": "BiLK-hHUf4ZTUlZVu5Fsq",
+      "price": 29990000,
+      "qtySold": 25074,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/1/18/638096387939701816_xiaomi-13-pro-dd.jpg",
+      "createAt": "61638858000000",
+      "id": "aX6VaQlP4WJR0kQOQILtI"
+    },
+    {
+      "name": "Xiaomi Redmi Note 11 4GB - 128GB",
+      "brandId": "BiLK-hHUf4ZTUlZVu5Fsq",
+      "price": 3990000,
+      "qtySold": 29729,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/21/638072157041005486_xiaomi-redmi-note-11-dd-bh.jpg",
+      "createAt": "61635747600000",
+      "id": "rBgTGjH5lTOPxEv1q-VGK"
+    },
+    {
+      "name": "Xiaomi Redmi Note 11 Pro 8GB - 128GB",
+      "brandId": "BiLK-hHUf4ZTUlZVu5Fsq",
+      "price": 6190000,
+      "qtySold": 33917,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/21/638072161262575097_xiaomi-redmi-note-11-pro-4g-dd-bh.jpg",
+      "createAt": "61634365200000",
+      "id": "maDFDaFVG77tYtK9bXzEr"
+    },
+    {
+      "name": "Xiaomi Redmi Note 11S 8GB - 128GB",
+      "brandId": "BiLK-hHUf4ZTUlZVu5Fsq",
+      "price": 5690000,
+      "qtySold": 8584,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/21/638125826982133292_xiaomi-redmi-note-11s-dd-bh.jpg",
+      "createAt": "61637389200000",
+      "id": "VnRZno0llORsJcVO3IvbL"
+    },
+    {
+      "name": "Xiaomi 11T Pro 5G 12GB - 256GB",
+      "brandId": "BiLK-hHUf4ZTUlZVu5Fsq",
+      "price": 10990000,
+      "qtySold": 33162,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/21/638072166004302193_xiaomi-11t-pro-dd-bh.jpg",
+      "createAt": "61634019600000",
+      "id": "OVkmprcE4QdtWJg5P_Q5R"
+    },
+    {
+      "name": "Xiaomi Redmi 10C 4GB - 128GB",
+      "brandId": "BiLK-hHUf4ZTUlZVu5Fsq",
+      "price": 2890000,
+      "qtySold": 17463,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/21/638072168033119038_xiaomi-redmi-10c-dd-bh.jpg",
+      "createAt": "61639376400000",
+      "id": "zbvY9-gFX7BDVRduR40ta"
+    },
+    {
+      "name": "Xiaomi Redmi 10 5G 4GB-64GB",
+      "brandId": "BiLK-hHUf4ZTUlZVu5Fsq",
+      "price": 3790000,
+      "qtySold": 34083,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/23/638073994611395657_xiaomi-redmi-10-dd-bh.jpg",
+      "createAt": "61634538000000",
+      "id": "r3ArDakmkxHiqIBRk0M0Z"
+    },
+    {
+      "name": "Xiaomi Redmi 12C 4GB - 64GB",
+      "brandId": "BiLK-hHUf4ZTUlZVu5Fsq",
+      "price": 3190000,
+      "qtySold": 34445,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/8/638138646675090630_xiaomi-redmi-12c-dd.jpg",
+      "createAt": "61635834000000",
+      "id": "WVbWd3r2-OB7MbgT-uUHo"
+    }
+  ],
+  "brands": [
+    {
+      "name": "Samsung",
+      "id": "XMJZbDX-dDbCgAbmaW2yy",
+      "createAt": "1678556881166"
+    },
+    {
+      "name": "Apple (Iphone)",
+      "id": "DLJ_1hawoU-R90USbzbl6",
+      "createAt": "1678557269960"
+    },
+    {
+      "name": "OPPO",
+      "id": "KVrpup8HZHGa4sfkfkDIl",
+      "createAt": "1678557333893"
+    },
+    {
+      "name": "Xiaomi",
+      "id": "BiLK-hHUf4ZTUlZVu5Fsq",
+      "createAt": "1678557351009"
     }
   ]
 }

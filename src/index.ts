@@ -4,6 +4,8 @@ import morgan from "morgan";
 import { userRouter } from "./routers/user.router";
 import { authRouter } from "./routers/auth.router";
 import { createConnection } from "./database";
+import { brandRouter } from "./routers/brand.router";
+import { productRouter } from "./routers/product.router";
 
 require("dotenv").config();
 
@@ -16,6 +18,8 @@ app.use(morgan("dev"));
 app.use(express.json());
 app.use("/api/users/", userRouter);
 app.use("/api/auth/", authRouter);
+app.use("/api/brands/", brandRouter);
+app.use("/api/products/", productRouter);
 
 app.listen(PORT, () => {
   console.log(`Listening on port ${PORT}`);
